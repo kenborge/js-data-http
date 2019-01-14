@@ -70,7 +70,6 @@
     "release": "npm test && npm run doc && repo-tools updates && repo-tools changelog && repo-tools authors"
   },
   "peerDependencies": {
-    "js-data": ">= 3.0.0"
   },
   "dependencies": {
     "js-data-adapter": "1.x.x"
